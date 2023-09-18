@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
 options: "3b85975ac11e7cd7ee1ac0b512b13246c418aeb823d0f76931f42551196b250a"
-build_start_time: [1695055122, 87914000]
-build_end_time: [1695055122, 160243000]
+build_start_time: [1695057654, 588515000]
+build_end_time: [1695057654, 619286000]
 inputs:
-  "/Users/gabriellopes/Desktop/chess_flutter/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1695055102, 699797905]
+  "/Users/gabriellopes/Desktop/chess_flutter/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1695057643, 675488516]
   "/Users/gabriellopes/Desktop/chess_flutter/macos/Runner/AppDelegate.swift": !private [1669202894, 0]
   "/Users/gabriellopes/Desktop/chess_flutter/macos/Runner/MainFlutterWindow.swift": !private [1695043981, 748869197]

@@ -10,11 +10,11 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		XqbIDVLpjjXION4IzlnGrsD450I=
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		0sKO3OGNWxHjZanhsX9gGRywDb4=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
@@ -23,6 +23,30 @@
 		<key>Resources/flutter_assets/NOTICES.Z</key>
 		<data>
 		RIAilnlOaIQ4G5me//hYHoX0dxY=
+		</data>
+		<key>Resources/flutter_assets/assets/pieces/bishop.png</key>
+		<data>
+		M/nXSaz+oXrGJ18BwlxQyuBt8Us=
+		</data>
+		<key>Resources/flutter_assets/assets/pieces/king.png</key>
+		<data>
+		Ez0uNJCUTqKyPop/CACS0uojsj0=
+		</data>
+		<key>Resources/flutter_assets/assets/pieces/knight.png</key>
+		<data>
+		g4/0U/YQoxW51xSdknUvpi+x2Bo=
+		</data>
+		<key>Resources/flutter_assets/assets/pieces/pawn.png</key>
+		<data>
+		AE87Hj28uUMhcA/KJZUsigPmDio=
+		</data>
+		<key>Resources/flutter_assets/assets/pieces/queen.png</key>
+		<data>
+		jyZZAHiN6gL+CxvTNZxaJwQVUq0=
+		</data>
+		<key>Resources/flutter_assets/assets/pieces/rook.png</key>
+		<data>
+		owAVDbDLHm9pborEi8ygnhFgUrs=
 		</data>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -34,7 +58,7 @@
 		</data>
 		<key>Resources/flutter_assets/kernel_blob.bin</key>
 		<data>
-		oP0TKuShDh7EGWbt09UgdRkGsic=
+		Zkax6K3BfJN6AJUzGfE1VgWIhRg=
 		</data>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -62,14 +86,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			cp0xDiPtGoQ2HpUP0ofkIpVcNxIBJqx9VmCPxTpdJWg=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			tSqTWkEnDkztl2iaqus706B24k6AxRRnYFYsLT1Q8lY=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
@@ -84,6 +108,48 @@
 			<key>hash2</key>
 			<data>
 			C4szPdS0AD7JLMyAxOIXKRO6ASL7TphOPzbz+/rCD8o=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/pieces/bishop.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/HERTt7h4NVIcta2Cq+H09QOHBMj7pgA/uUH7HuJ4Ao=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/pieces/king.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RIqsLjEFgS3Oz29DAYUCWbA4t9H7unOVlkL1OUMrYsg=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/pieces/knight.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HLrmRk8tJk30UoAQn5XcW31CsR/55DQeUrvJMTRRw2U=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/pieces/pawn.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qN+0Vmt3+vhF9Q9syY+HqG631j5UjAWbfGzpBueHjxk=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/pieces/queen.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UdBIxL97Zr7E00MvjBTob+7xXtkKK2GZFBSL38N9UxM=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/assets/pieces/rook.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AxsMNVNhlMmUcgsU0UOhPQisEQ1JIUPA0kxcbViyvCE=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -104,7 +170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EQimdxviMCb3AYu9Olkr3IOBtp0YTCvyi40eM9TcItM=
+			qMV+zhYUZTRpp99DbtuqBepaEXU99KUyilNKOaS5VCE=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
