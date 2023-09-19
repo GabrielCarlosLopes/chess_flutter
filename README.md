@@ -5,6 +5,6 @@ Este é um aplicativo de xadrez
 
 # Demonstração
 
-|![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/1.png)  |![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/2.png)  | ![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/3.png) |
+|![](https://github.com/GabrielCarlosLopes/chess_flutter/blob/main/screenshots/1.png?raw=true)  |![](https://github.com/GabrielCarlosLopes/chess_flutter/blob/main/screenshots/2.png?raw=true)  | ![](https://github.com/GabrielCarlosLopes/chess_flutter/blob/main/screenshots/3.png?raw=true) |
 |--|--|--|
-| ![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/4.png) | ![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/5.png) |  | 
+| ![](https://github.com/GabrielCarlosLopes/chess_flutter/blob/main/screenshots/4.png?raw=true) | ![](https://github.com/GabrielCarlosLopes/chess_flutter/blob/main/screenshots/5.png?raw=true) |  | 
