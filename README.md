@@ -1,16 +1,10 @@
-# chess_flutter
+# Chess Flutter!
 
-A new Flutter project.
+Este é um aplicativo de xadrez
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Demonstração
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/1.png)  |![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/2.png)  | ![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/3.png) |
+|--|--|--|
+| ![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/4.png) | ![enter image description here](https://github.com/GabrielCarlosLopes/chess_flutter/screenshots/5.png) |  | 
